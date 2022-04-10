@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bekiryavuz/typescript-react-crud-boilerplate/static/css/main.96be6c48.css",
+    "main.js": "/bekiryavuz/typescript-react-crud-boilerplate/static/js/main.3f525748.js",
+    "index.html": "/bekiryavuz/typescript-react-crud-boilerplate/index.html",
+    "main.96be6c48.css.map": "/bekiryavuz/typescript-react-crud-boilerplate/static/css/main.96be6c48.css.map",
+    "main.3f525748.js.map": "/bekiryavuz/typescript-react-crud-boilerplate/static/js/main.3f525748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96be6c48.css",
+    "static/js/main.3f525748.js"
+  ]
+}
